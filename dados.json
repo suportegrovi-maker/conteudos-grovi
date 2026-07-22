@@ -72,7 +72,7 @@
           "id": "mrvg6tpgmbctp",
           "name": "Leads gerados",
           "target": 50,
-          "value": 0
+          "value": 1
         },
         {
           "id": "mrvg6tpgek0hi",
@@ -82,6 +82,178 @@
         },
         {
           "id": "mrvg6tpggzujk",
+          "name": "Vendas fechadas",
+          "target": 5,
+          "value": 0
+        }
+      ]
+    },
+    "2026-08": {
+      "productivity": [
+        {
+          "id": "mrvg7ga49opha",
+          "name": "Ideias captadas",
+          "auto": "ideias",
+          "target": 15
+        },
+        {
+          "id": "mrvg7ga4uium9",
+          "name": "Prontos p/ gravar",
+          "auto": "gravar",
+          "target": 20
+        },
+        {
+          "id": "mrvg7ga4dcnds",
+          "name": "Produzidos",
+          "auto": "produzido",
+          "target": 15
+        },
+        {
+          "id": "mrvg7ga4ky2j1",
+          "name": "Postados",
+          "auto": "postado",
+          "target": 12
+        }
+      ],
+      "growth": [
+        {
+          "id": "mrvg7ga46jrrt",
+          "name": "Curtidas",
+          "target": 5000,
+          "manual": null
+        },
+        {
+          "id": "mrvg7ga4rqg49",
+          "name": "Comentários",
+          "target": 300,
+          "manual": null
+        },
+        {
+          "id": "mrvg7ga4pukur",
+          "name": "Compartilhamentos",
+          "target": 200,
+          "manual": null
+        },
+        {
+          "id": "mrvg7ga4xa4dr",
+          "name": "Salvos",
+          "target": 400,
+          "manual": null
+        },
+        {
+          "id": "mrvg7ga4vdz1p",
+          "name": "Alcance",
+          "target": 50000,
+          "manual": null
+        },
+        {
+          "id": "mrvg7ga4946ss",
+          "name": "Visualizações",
+          "target": 80000,
+          "manual": null
+        }
+      ],
+      "sales": [
+        {
+          "id": "mrvg7ga4dddm7",
+          "name": "Leads gerados",
+          "target": 50,
+          "value": 0
+        },
+        {
+          "id": "mrvg7ga4zsalp",
+          "name": "Reuniões realizadas",
+          "target": 15,
+          "value": 0
+        },
+        {
+          "id": "mrvg7ga4scns9",
+          "name": "Vendas fechadas",
+          "target": 5,
+          "value": 0
+        }
+      ]
+    },
+    "2026-06": {
+      "productivity": [
+        {
+          "id": "mrvg7iswri083",
+          "name": "Ideias captadas",
+          "auto": "ideias",
+          "target": 30
+        },
+        {
+          "id": "mrvg7iswpr18t",
+          "name": "Prontos p/ gravar",
+          "auto": "gravar",
+          "target": 20
+        },
+        {
+          "id": "mrvg7iswjrdt8",
+          "name": "Produzidos",
+          "auto": "produzido",
+          "target": 15
+        },
+        {
+          "id": "mrvg7iswl8ko7",
+          "name": "Postados",
+          "auto": "postado",
+          "target": 12
+        }
+      ],
+      "growth": [
+        {
+          "id": "mrvg7iswubepl",
+          "name": "Curtidas",
+          "target": 5000,
+          "manual": null
+        },
+        {
+          "id": "mrvg7isw7r12j",
+          "name": "Comentários",
+          "target": 300,
+          "manual": null
+        },
+        {
+          "id": "mrvg7iswjb61a",
+          "name": "Compartilhamentos",
+          "target": 200,
+          "manual": null
+        },
+        {
+          "id": "mrvg7iswr52nw",
+          "name": "Salvos",
+          "target": 400,
+          "manual": null
+        },
+        {
+          "id": "mrvg7iswxxysh",
+          "name": "Alcance",
+          "target": 50000,
+          "manual": null
+        },
+        {
+          "id": "mrvg7iswyeo37",
+          "name": "Visualizações",
+          "target": 80000,
+          "manual": null
+        }
+      ],
+      "sales": [
+        {
+          "id": "mrvg7iswjskbg",
+          "name": "Leads gerados",
+          "target": 50,
+          "value": 0
+        },
+        {
+          "id": "mrvg7iswf2tuc",
+          "name": "Reuniões realizadas",
+          "target": 15,
+          "value": 0
+        },
+        {
+          "id": "mrvg7iswq1uuw",
           "name": "Vendas fechadas",
           "target": 5,
           "value": 0
