@@ -527,6 +527,34 @@
       "funcionou": "",
       "metrics": [],
       "metricPreset": ""
+    },
+    {
+      "id": "mrwkqc0a58t27",
+      "createdAt": "2026-07-22T21:07:51.754Z",
+      "title": "Teste",
+      "stage": "ideias",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "reference": "",
+      "tema": "",
+      "formatoLivre": "",
+      "roteiro": "",
+      "dateGravacao": "",
+      "prazoEdicao": "",
+      "linkPronto": "",
+      "prazoRevisao": "",
+      "legendas": "",
+      "hashtags": "",
+      "datePost": "",
+      "linkPost": "",
+      "funcionou": "",
+      "metrics": [
+        {
+          "name": "Curtidas",
+          "value": "1500"
+        }
+      ],
+      "metricPreset": ""
     }
   ],
   "metricPresets": [],
