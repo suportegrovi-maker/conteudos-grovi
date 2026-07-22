@@ -1,4 +1,92 @@
 {
   "items": [],
-  "metricPresets": []
+  "metricPresets": [],
+  "goals": {
+    "2026-07": {
+      "productivity": [
+        {
+          "id": "mrvg6tpf4sp05",
+          "name": "Ideias captadas",
+          "auto": "ideias",
+          "target": 31
+        },
+        {
+          "id": "mrvg6tpfko049",
+          "name": "Prontos p/ gravar",
+          "auto": "gravar",
+          "target": 20
+        },
+        {
+          "id": "mrvg6tpgzskn7",
+          "name": "Produzidos",
+          "auto": "produzido",
+          "target": 15
+        },
+        {
+          "id": "mrvg6tpgtvd0v",
+          "name": "Postados",
+          "auto": "postado",
+          "target": 12
+        }
+      ],
+      "growth": [
+        {
+          "id": "mrvg6tpgm6i7d",
+          "name": "Curtidas",
+          "target": 5000,
+          "manual": null
+        },
+        {
+          "id": "mrvg6tpglc92p",
+          "name": "Comentários",
+          "target": 300,
+          "manual": null
+        },
+        {
+          "id": "mrvg6tpgt61lv",
+          "name": "Compartilhamentos",
+          "target": 200,
+          "manual": null
+        },
+        {
+          "id": "mrvg6tpghpef6",
+          "name": "Salvos",
+          "target": 400,
+          "manual": null
+        },
+        {
+          "id": "mrvg6tpgmud24",
+          "name": "Alcance",
+          "target": 50000,
+          "manual": null
+        },
+        {
+          "id": "mrvg6tpgj8ug6",
+          "name": "Visualizações",
+          "target": 80000,
+          "manual": null
+        }
+      ],
+      "sales": [
+        {
+          "id": "mrvg6tpgmbctp",
+          "name": "Leads gerados",
+          "target": 50,
+          "value": 0
+        },
+        {
+          "id": "mrvg6tpgek0hi",
+          "name": "Reuniões realizadas",
+          "target": 15,
+          "value": 0
+        },
+        {
+          "id": "mrvg6tpggzujk",
+          "name": "Vendas fechadas",
+          "target": 5,
+          "value": 0
+        }
+      ]
+    }
+  }
 }
