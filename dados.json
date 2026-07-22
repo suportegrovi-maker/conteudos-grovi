@@ -790,5 +790,18 @@
       ]
     }
   },
-  "refs": []
+  "refs": [
+    {
+      "id": "mrvli08894fe0",
+      "createdAt": "2026-07-22T04:41:36.680Z",
+      "title": "Pensamento analítico",
+      "link": "https://www.instagram.com/p/DaiH7Kks-FB/",
+      "tipo": "Reels",
+      "plat": "Instagram",
+      "brand": "",
+      "tags": [],
+      "note": "",
+      "rating": 5
+    }
+  ]
 }
