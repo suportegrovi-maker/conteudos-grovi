@@ -71,19 +71,19 @@
         {
           "id": "mrvg6tpgmbctp",
           "name": "Leads gerados",
-          "target": 50,
+          "target": 10,
           "value": 5
         },
         {
           "id": "mrvg6tpgek0hi",
           "name": "Reuniões realizadas",
-          "target": 15,
+          "target": 2,
           "value": 0
         },
         {
           "id": "mrvg6tpggzujk",
           "name": "Vendas fechadas",
-          "target": 5,
+          "target": 1,
           "value": 0
         }
       ]
