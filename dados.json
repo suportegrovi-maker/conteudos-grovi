@@ -8,25 +8,25 @@
           "id": "mrvg6tpf4sp05",
           "name": "Ideias captadas",
           "auto": "ideias",
-          "target": 15
+          "target": 100
         },
         {
           "id": "mrvg6tpfko049",
           "name": "Prontos p/ gravar",
           "auto": "gravar",
-          "target": 20
+          "target": 50
         },
         {
           "id": "mrvg6tpgzskn7",
           "name": "Produzidos",
           "auto": "produzido",
-          "target": 15
+          "target": 45
         },
         {
           "id": "mrvg6tpgtvd0v",
           "name": "Postados",
           "auto": "postado",
-          "target": 12
+          "target": 30
         }
       ],
       "growth": [
