@@ -591,7 +591,7 @@
           "id": "mrvg6tpgm6i7d",
           "name": "Curtidas",
           "target": 250,
-          "manual": 100
+          "manual": null
         },
         {
           "id": "mrvg6tpglc92p",
