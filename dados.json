@@ -71,7 +71,7 @@
       "id": "mrvio7osre7z6",
       "createdAt": "2026-07-22T03:22:27.436Z",
       "title": "5 Problemas = 5 Soluções",
-      "stage": "ideias",
+      "stage": "postado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DaWAqfPiQtL/",
       "tema": "",
@@ -85,8 +85,21 @@
       "hashtags": "",
       "datePost": "",
       "linkPost": "",
-      "funcionou": "",
-      "metrics": [],
+      "funcionou": "bguygceywuigceuwygcueywuecgvewuycgwe",
+      "metrics": [
+        {
+          "name": "Curtidas",
+          "value": "1000"
+        },
+        {
+          "name": "Comentários",
+          "value": "250"
+        },
+        {
+          "name": "Visualizações",
+          "value": "50000"
+        }
+      ],
       "metricPreset": "",
       "tipo": "Carrossel"
     },
