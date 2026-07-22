@@ -1,5 +1,28 @@
 {
-  "items": [],
+  "items": [
+    {
+      "id": "mrvihzs5544s3",
+      "createdAt": "2026-07-22T03:17:37.253Z",
+      "title": "Resolvendo X Problema em 60 segundos",
+      "stage": "ideias",
+      "platform": "Instagram",
+      "reference": "https://www.instagram.com/p/Dacxg-auPsT/",
+      "tema": "",
+      "formatoLivre": "Resolvendo X Problema em 60 segundos",
+      "roteiro": "",
+      "dateGravacao": "",
+      "prazoEdicao": "",
+      "linkPronto": "",
+      "prazoRevisao": "",
+      "legendas": "",
+      "hashtags": "",
+      "datePost": "",
+      "linkPost": "",
+      "funcionou": "",
+      "metrics": [],
+      "metricPreset": ""
+    }
+  ],
   "metricPresets": [],
   "goals": {
     "2026-07": {
