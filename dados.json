@@ -33,37 +33,37 @@
         {
           "id": "mrvg6tpgm6i7d",
           "name": "Curtidas",
-          "target": 5000,
+          "target": 250,
           "manual": 11
         },
         {
           "id": "mrvg6tpglc92p",
           "name": "Comentários",
-          "target": 300,
+          "target": 50,
           "manual": null
         },
         {
           "id": "mrvg6tpgt61lv",
           "name": "Compartilhamentos",
-          "target": 200,
+          "target": 30,
           "manual": null
         },
         {
           "id": "mrvg6tpghpef6",
           "name": "Salvos",
-          "target": 400,
+          "target": 30,
           "manual": null
         },
         {
           "id": "mrvg6tpgmud24",
           "name": "Alcance",
-          "target": 50000,
+          "target": 1000,
           "manual": null
         },
         {
           "id": "mrvg6tpgj8ug6",
           "name": "Visualizações",
-          "target": 80000,
+          "target": 5000,
           "manual": null
         }
       ],
