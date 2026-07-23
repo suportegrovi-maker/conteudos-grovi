@@ -818,5 +818,18 @@
       "note": "",
       "rating": 5
     }
-  ]
+  ],
+  "settings": {
+    "thresholds": {
+      "ideias": 2,
+      "gravar": 2,
+      "gravado": 2,
+      "revisar": 2,
+      "postar": 2,
+      "postado": 0
+    },
+    "notifsOn": true,
+    "soundOn": true,
+    "notifIntervalMin": 15
+  }
 }
