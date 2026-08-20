@@ -4,7 +4,7 @@
       "id": "mrvihzs5544s3",
       "createdAt": "2026-07-22T03:17:37.253Z",
       "title": "Resolvendo X Problema em 60 segundos",
-      "stage": "gravado",
+      "stage": "postado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/Dacxg-auPsT/",
       "tema": "Funil de vendas",
@@ -26,9 +26,17 @@
         {
           "stage": "gravado",
           "at": "2026-08-19T21:45:26.792Z"
+        },
+        {
+          "stage": "postar",
+          "at": "2026-08-20T02:33:59.269Z"
+        },
+        {
+          "stage": "postado",
+          "at": "2026-08-20T02:56:36.303Z"
         }
       ],
-      "lastMoved": "2026-08-19T21:45:26.792Z"
+      "lastMoved": "2026-08-20T02:56:36.303Z"
     },
     {
       "id": "mrvik3qkwxc4v",
