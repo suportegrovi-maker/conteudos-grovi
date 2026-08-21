@@ -144,7 +144,7 @@
       "id": "mrvirg7xd32mn",
       "createdAt": "2026-07-22T03:24:58.461Z",
       "title": "A lógica matematica para sair de X problema e ter X Resultado",
-      "stage": "gravado",
+      "stage": "postado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DaTuPHQxPcw/",
       "tema": "",
@@ -156,7 +156,7 @@
       "prazoRevisao": "",
       "legendas": "",
       "hashtags": "",
-      "datePost": "",
+      "datePost": "2026-08-21",
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
@@ -166,9 +166,13 @@
         {
           "stage": "gravado",
           "at": "2026-08-21T20:19:58.028Z"
+        },
+        {
+          "stage": "postado",
+          "at": "2026-08-21T21:28:49.094Z"
         }
       ],
-      "lastMoved": "2026-08-21T20:19:58.029Z"
+      "lastMoved": "2026-08-21T21:28:49.094Z"
     },
     {
       "id": "mrvis5z9f6weh",
