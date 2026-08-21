@@ -144,14 +144,14 @@
       "id": "mrvirg7xd32mn",
       "createdAt": "2026-07-22T03:24:58.461Z",
       "title": "A lógica matematica para sair de X problema e ter X Resultado",
-      "stage": "ideias",
+      "stage": "gravado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DaTuPHQxPcw/",
       "tema": "",
       "formatoLivre": "A lógica matematica para sair de X problema e ter X Resultado",
-      "roteiro": "",
+      "roteiro": "HOOK\nA lógica matemática para sua loja de carros sair de 15 vendas para +30 vendas por mês!\n\n",
       "dateGravacao": "",
-      "prazoEdicao": "",
+      "prazoEdicao": "2026-08-21",
       "linkPronto": "",
       "prazoRevisao": "",
       "legendas": "",
@@ -160,7 +160,15 @@
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "gravado",
+          "at": "2026-08-21T20:19:58.028Z"
+        }
+      ],
+      "lastMoved": "2026-08-21T20:19:58.029Z"
     },
     {
       "id": "mrvis5z9f6weh",
