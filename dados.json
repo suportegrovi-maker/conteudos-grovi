@@ -130,7 +130,7 @@
       "id": "mrvipz16qafar",
       "createdAt": "2026-07-22T03:23:49.530Z",
       "title": "Como fazer X coisa para X resultado",
-      "stage": "ideias",
+      "stage": "postado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DVlZTHNAA7I/",
       "tema": "",
@@ -142,11 +142,19 @@
       "prazoRevisao": "",
       "legendas": "",
       "hashtags": "",
-      "datePost": "",
+      "datePost": "2026-08-26",
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "postado",
+          "at": "2026-08-26T22:51:18.991Z"
+        }
+      ],
+      "lastMoved": "2026-08-26T22:51:18.991Z"
     },
     {
       "id": "mrvirg7xd32mn",
