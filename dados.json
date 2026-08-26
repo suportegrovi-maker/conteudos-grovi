@@ -42,7 +42,7 @@
       "id": "mrvik3qkwxc4v",
       "createdAt": "2026-07-22T03:19:15.692Z",
       "title": "Formas de [Fazer x Coisa]",
-      "stage": "ideias",
+      "stage": "postado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DandtNuREo7/",
       "tema": "",
@@ -54,11 +54,19 @@
       "prazoRevisao": "",
       "legendas": "",
       "hashtags": "",
-      "datePost": "",
+      "datePost": "2026-08-26",
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "postado",
+          "at": "2026-08-26T20:39:58.542Z"
+        }
+      ],
+      "lastMoved": "2026-08-26T20:39:58.543Z"
     },
     {
       "id": "mrvildef1iivw",
