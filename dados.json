@@ -260,7 +260,7 @@
       "id": "mrvivavn9ze8j",
       "createdAt": "2026-07-22T03:27:58.163Z",
       "title": "Ouvindo um áudio e reagindo",
-      "stage": "ideias",
+      "stage": "postado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DaGiGKNP9Ky/",
       "tema": "",
@@ -272,11 +272,19 @@
       "prazoRevisao": "",
       "legendas": "",
       "hashtags": "",
-      "datePost": "",
+      "datePost": "2026-08-27",
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "postado",
+          "at": "2026-08-27T22:07:55.077Z"
+        }
+      ],
+      "lastMoved": "2026-08-27T22:07:55.077Z"
     },
     {
       "id": "mrviwlhlzlj63",
