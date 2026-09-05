@@ -542,7 +542,7 @@
       "id": "mrvj97od7e669",
       "createdAt": "2026-07-22T03:38:47.197Z",
       "title": "Isso que eu vou te mostrar pode ser controverso",
-      "stage": "ideias",
+      "stage": "gravado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DX9vLtTAAI5/",
       "tema": "",
@@ -558,7 +558,15 @@
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "gravado",
+          "at": "2026-09-05T03:12:28.732Z"
+        }
+      ],
+      "lastMoved": "2026-09-05T03:12:28.733Z"
     },
     {
       "id": "mrvj9wekqjr2m",
