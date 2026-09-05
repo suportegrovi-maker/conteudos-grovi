@@ -320,7 +320,7 @@
       "id": "mrvixbdkp3swf",
       "createdAt": "2026-07-22T03:29:32.120Z",
       "title": "Se eu fosse X coisa tua eu faria isso",
-      "stage": "ideias",
+      "stage": "gravado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DZGwIfnOHCF/",
       "tema": "",
@@ -336,7 +336,15 @@
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "gravado",
+          "at": "2026-09-05T02:48:03.399Z"
+        }
+      ],
+      "lastMoved": "2026-09-05T02:48:03.399Z"
     },
     {
       "id": "mrviy9foz5zsd",
