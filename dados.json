@@ -350,7 +350,7 @@
       "id": "mrviy9foz5zsd",
       "createdAt": "2026-07-22T03:30:16.260Z",
       "title": "O jeito mais rápido de fazer x coisa",
-      "stage": "ideias",
+      "stage": "gravado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DZdrl7NpmSg/",
       "tema": "",
@@ -366,7 +366,15 @@
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "gravado",
+          "at": "2026-09-05T03:04:50.548Z"
+        }
+      ],
+      "lastMoved": "2026-09-05T03:04:50.548Z"
     },
     {
       "id": "mrviz3jho5up4",
