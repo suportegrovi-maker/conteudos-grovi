@@ -372,7 +372,7 @@
       "id": "mrviz3jho5up4",
       "createdAt": "2026-07-22T03:30:55.277Z",
       "title": "Eu vou te mostrar como ter x resultado com menos esforço",
-      "stage": "ideias",
+      "stage": "gravado",
       "platform": "Instagram",
       "reference": "https://www.instagram.com/p/DaRXSIEB3XW/",
       "tema": "",
@@ -388,7 +388,15 @@
       "linkPost": "",
       "funcionou": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "tipo": "Reels",
+      "stageHistory": [
+        {
+          "stage": "gravado",
+          "at": "2026-09-05T02:56:07.518Z"
+        }
+      ],
+      "lastMoved": "2026-09-05T02:56:07.518Z"
     },
     {
       "id": "mrvj05rfa6xzs",
